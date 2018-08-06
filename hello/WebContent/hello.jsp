@@ -7,6 +7,6 @@
 <title>Hello Java Project</title>
 </head>
 <body>
-이준빈은 호박머리
+이준빈은 호박머리다
 </body>
 </html>
