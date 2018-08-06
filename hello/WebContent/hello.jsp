@@ -7,6 +7,22 @@
 <title>Hello Java Project</title>
 </head>
 <body>
-捞霖后篮 龋冠赣府促!!
+<table width="200" border="1">
+  <tr>
+    <th scope="row">力格1</th>
+    <td>力格2</td>
+    <td>力格3</td>
+  </tr>
+  <tr>
+    <th scope="row">&nbsp;</th>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <th scope="row">&nbsp;</th>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
 </body>
-</html>
+</html><
